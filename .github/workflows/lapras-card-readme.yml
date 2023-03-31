@@ -13,10 +13,6 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: 'msk1206'
-          ICON_FIRST: '#03102f'
-          ICON_SECOND: '#77c6ee'
-          BACKGROUND_FIRST: '#43547a'
-          BACKGROUND_SECOND: '#0e5593'
           LANG: 'ja'
           CARD_WIDTH: '350'
           UPDATE_TIME: 'false'
