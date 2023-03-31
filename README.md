@@ -1,3 +1,4 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msk1206&theme=tokyonight)](https://github.com/msk1206/github-readme-stats)
 ![MSK1206's GitHub stats](https://github-readme-stats.vercel.app/api?username=msk1206&show_icons=true&theme=tokyonight)
 
 <!--START_SECTION:lapras-card-->
