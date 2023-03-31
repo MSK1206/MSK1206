@@ -12,7 +12,6 @@ jobs:
     steps:
       - uses: kawamataryo/lapras-card-readme@main
         with:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           SHARE_ID: '6JUE9FR'
           LANG: 'ja'
           CARD_WIDTH: '350'
