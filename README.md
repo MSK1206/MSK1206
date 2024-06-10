@@ -11,7 +11,9 @@ https://zenn.dev/msk1206
 
 ## 趣味
 
-![VRM_Model作り](https://hub.vroid.com/users/87086436)
+VRM_Model作り
+
+https://hub.vroid.com/users/87086436
 
 
 ![IMG_2965](https://github.com/MSK1206/MSK1206/assets/86665622/9f7b4b83-89e8-492e-94ca-da906e48fb4f)
